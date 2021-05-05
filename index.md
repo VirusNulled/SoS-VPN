@@ -35,8 +35,10 @@ Y A toda la comunidad de [Nulled](Nulled.to)
 ### Visitas
 <a href="https://www.freecounterstat.com" title="page counter"><img src="https://counter1.stat.ovh/private/freecounterstat.php?c=xy24h3ed5qyf1txctlqhqwnc91ps74bu" border="0" title="page counter" alt="page counter"></a>
 
-<html>
-	<head>
-		<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
-	</head>
-</html>
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="theme-color" content="#ffffff">
