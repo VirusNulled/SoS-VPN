@@ -1,3 +1,15 @@
+## ¿Donde Puedo Descargar NordVPN?
+
+NordVPN Esta disponible para [Windows](https://nordvpn.com/es/download/windows/) [Android](https://nordvpn.com/es/download/android/) [IOS](https://nordvpn.com/es/download/ios/) [MacOS](https://nordvpn.com/es/download/mac/) [Linux](https://nordvpn.com/es/download/linux/)
+
+## ¿Donde Puedo Solicitar una Cuenta de NordVPN?
+
+Es Facil, Solo tienes que ir a [ESTE SITIO](https://virusnulled.github.io/SolicitarVPN/) Y En la Parte Inferior encontraras un Listado con Posibles Cuentas Validas
+
+## NO USAR VPN's GRATIS
+
+Por mas que estemos conectados a una VPN Que es gratis, esta no va a garantizar al 100% el uso de Bloqueo de Sitios Nacionalmente hablando, por lo tanto este sitio Contiene Cuentas de NordVPN, La cual cada cuenta tiene una Subscripcion De hasta 3 AÑOS De uso..
+
 ## ¿Que es este Sitio? y ¿Que es una VPN?
 
 Este Sitio fue creado por la Comunidad Cibernetica [Nulled](Nulled.to) Para Apoyar al Pueblo Colombiano del Bloqueo de Redes Sociales u otros Sitios Vitales para la Comunicación.
@@ -5,14 +17,6 @@ Este Sitio fue creado por la Comunidad Cibernetica [Nulled](Nulled.to) Para Apoy
 Es Importante saber que esta Pagina fue solo creada para este Mismo Proposito (Difundir Cuentas del Sitio [NordVPN](https://nordvpn.com/) Para así evitar estos mismos bloqueos de red
 
 Una de las cosas más populares para las que se usa una VPN es el acceso al contenido. Si el uso de servicios de transmisión y redes sociales en el extranjero es importante para usted, una VPN puede ayudarlo. Cambia su dirección IP y redirige su conexión a Internet a través de un servidor remoto de manera Segura.
-
-### ¿Donde Puedo Descargar NordVPN?
-
-NordVPN Esta disponible para [Windows](https://nordvpn.com/es/download/windows/) [Android](https://nordvpn.com/es/download/android/) [IOS](https://nordvpn.com/es/download/ios/) [MacOS](https://nordvpn.com/es/download/mac/) [Linux](https://nordvpn.com/es/download/linux/)
-
-### ¿Donde Puedo Solicitar una Cuenta de NordVPN?
-
-Es Facil, Solo tienes que ir a [ESTE SITIO](https://virusnulled.github.io/SolicitarVPN/) Y En la Parte Inferior encontraras un Listado con Posibles Cuentas Validas
 
 ### Soporte y Contacto
 
