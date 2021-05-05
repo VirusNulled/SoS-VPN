@@ -27,3 +27,7 @@ Esta pagina Fue Creada y Hosteada Gratuitamente por [GitHub](https://github.com/
 [Virus](https://www.nulled.to/user/1284526-virus) - [Payrozza](https://www.nulled.to/user/1833390-payrozza) - [SESoftware](https://www.nulled.to/user/4640211-sesoftware) - [PCEOut](https://www.nulled.to/user/4708996-pceout) -
 
 Y A toda la comunidad de [Nulled](Nulled.to)
+
+### Visitas
+ <a href='https://free-hit-counters.net/'>https://free-hit-counters.net</a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=2a4adab78915ed1e31c6052e0720d7fc613250e6'></script>
+<script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/823689/t/5"></script>
