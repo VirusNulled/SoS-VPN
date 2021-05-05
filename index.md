@@ -34,3 +34,5 @@ Y A toda la comunidad de [Nulled](Nulled.to)
 
 ### Visitas
 <a href="https://www.freecounterstat.com" title="page counter"><img src="https://counter1.stat.ovh/private/freecounterstat.php?c=xy24h3ed5qyf1txctlqhqwnc91ps74bu" border="0" title="page counter" alt="page counter"></a>
+
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
