@@ -29,6 +29,4 @@ Esta pagina Fue Creada y Hosteada Gratuitamente por [GitHub](https://github.com/
 Y A toda la comunidad de [Nulled](Nulled.to)
 
 ### Visitas
-<div id="sfc2fwnuqjl3nl6x18q57pw22yd79yfjxph"></div>
-<script type="text/javascript" src="https://counter1.stat.ovh/private/counter.js?c=2fwnuqjl3nl6x18q57pw22yd79yfjxph&down=async" async></script>
-<noscript><a href="https://www.freecounterstat.com" title="page counter"><img src="https://counter1.stat.ovh/private/freecounterstat.php?c=2fwnuqjl3nl6x18q57pw22yd79yfjxph" border="0" title="page counter" alt="page counter"></a></noscript>
+<a href="https://www.freecounterstat.com" title="page counter"><img src="https://counter1.stat.ovh/private/freecounterstat.php?c=xy24h3ed5qyf1txctlqhqwnc91ps74bu" border="0" title="page counter" alt="page counter"></a>
