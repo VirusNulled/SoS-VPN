@@ -29,5 +29,6 @@ Esta pagina Fue Creada y Hosteada Gratuitamente por [GitHub](https://github.com/
 Y A toda la comunidad de [Nulled](Nulled.to)
 
 ### Visitas
- <a href='https://free-hit-counters.net/'>https://free-hit-counters.net</a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=2a4adab78915ed1e31c6052e0720d7fc613250e6'></script>
-<script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/823689/t/5"></script>
+<div id="sfc2fwnuqjl3nl6x18q57pw22yd79yfjxph"></div>
+<script type="text/javascript" src="https://counter1.stat.ovh/private/counter.js?c=2fwnuqjl3nl6x18q57pw22yd79yfjxph&down=async" async></script>
+<noscript><a href="https://www.freecounterstat.com" title="page counter"><img src="https://counter1.stat.ovh/private/freecounterstat.php?c=2fwnuqjl3nl6x18q57pw22yd79yfjxph" border="0" title="page counter" alt="page counter"></a></noscript>
